@@ -49,13 +49,13 @@ O projeto também conta com:
 Clone o repositório:
 
 ```bash
-git clone https://github.com/VictorAlves-25/projeto-faculdade.git
+git clone https://github.com/VictorAlves-25/flask-docker-ci.git
 ```
 
 Entre na pasta:
 
 ```bash
-cd projeto-faculdade
+cd flask-docker-ci
 ```
 
 Instale as dependências:
